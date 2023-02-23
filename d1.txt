@@ -1,3 +1,0 @@
-This is nano editor.
-after entering content to this file we nee to press ctrl+x to save this file.
-Press Y to save the file the changes you have made
