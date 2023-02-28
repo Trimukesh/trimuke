@@ -1,5 +1,6 @@
 cd C:\Users\tpadala\testtfa
 git add .
+git status
 git commit -m "commited" 
 git remote remove origin
 git remote add origin "https://github.com/Trimukesh/trimuke.git"
