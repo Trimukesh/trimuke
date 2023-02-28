@@ -1,4 +1,4 @@
-#Echo "Hello world....."
+cd C:\Users\tpadala\testtfa
 git add .
 git commit -m "commited" 
 git remote remove origin
